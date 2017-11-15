@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/index.html</loc>
+    <lastmod>2017-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://primerprimer.zzz.com.ua/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://primerprimer.zzz.com.ua/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://primerprimer.zzz.com.ua/images/bf.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://primerprimer.zzz.com.ua/images/saf.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://primerprimer.zzz.com.ua/images/7.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/%D0%B1%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-3.html</loc>
+    <lastmod>2017-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://primerprimer.zzz.com.ua/tablet/без-имени-3.html"/>
+  </url>
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/assets/%D0%B9.jpg</loc>
+    <lastmod>2017-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/assets/%D0%BA.jpeg</loc>
+    <lastmod>2017-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/assets/%D1%86.jpg</loc>
+    <lastmod>2017-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/assets/untitled.webm</loc>
+    <lastmod>2017-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/assets/maxresdefault.jpg</loc>
+    <lastmod>2017-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/assets/%D0%B5.jpg</loc>
+    <lastmod>2017-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://primerprimer.zzz.com.ua/assets/untitled.mp4</loc>
+    <lastmod>2017-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

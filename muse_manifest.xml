@@ -1,0 +1,113 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="primerprimer.zzz.com.ua" resolutions="1x" timestamp="1510680371859">
+  <folder name="css">
+    <file name="site_global.css" crc="3763998041"/>
+    <file name="___-_____-3.css" crc="14457210" ref="без-имени-3"/>
+    <file name="index.css" crc="211072045" ref="index"/>
+    <file name="iefonts_index.css" crc="281147389" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="е.jpg" crc="3952332834" seo="true" mt="1509320998000"/>
+    <file name="й.jpg" crc="252177759" seo="true" mt="1509320985000"/>
+    <file name="к.jpeg" crc="3907763056" seo="true" mt="1509321035000"/>
+    <file name="ц.jpg" crc="3922275773" seo="true" mt="1509320988000"/>
+    <file name="untitled.mp4" crc="4021862617" seo="true" mt="1510509669000"/>
+    <file name="untitled.webm" crc="4057404470" seo="true" mt="1510511397000"/>
+    <file name="maxresdefault.jpg" crc="3964873306" seo="true" mt="1510591914000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>без-имени-3:tablet>index:tablet>без-имени-3:index:без-имени-3"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>без-имени-3:tablet>index:tablet>без-имени-3:index:без-имени-3"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>без-имени-3:tablet>index:tablet>без-имени-3:index:без-имени-3"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>без-имени-3:tablet>index:tablet>без-имени-3:index:без-имени-3"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>без-имени-3:tablet>index:tablet>без-имени-3:index:без-имени-3"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:tablet>index:tablet>без-имени-3:index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:tablet>index:tablet>без-имени-3"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:tablet>index:tablet>без-имени-3"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:tablet>index:tablet>без-имени-3"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u2753.php" crc="122568903" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:tablet>index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>без-имени-3:tablet>index:tablet>без-имени-3:index:без-имени-3"/>
+    <file name="form-u1624.php" crc="3951302851" ref="tablet>index"/>
+    <file name="form-u1139.php" crc="4255397672" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3895374624" ref="phone>index"/>
+    <file name="maxresdefault.jpg" crc="3964873306" seo="true" ref="phone>index:tablet>index:tablet>без-имени-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="без-имени-3" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:tablet>без-имени-3:index"/>
+    <file name="zyndz2nt0km.jpg" crc="503613014" seo="true" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4)-w1280.jpg" crc="4141149683" seo="true" ref="phone>index:tablet>index:tablet>без-имени-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="без-имени-3" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:tablet>без-имени-3"/>
+    <file name="bf.jpg" crc="4032163250" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saf.jpg" crc="3979400453" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3961289756" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="е342x193.jpg" crc="4040048446" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="й342x193.jpg" crc="529996432" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="к342x193.jpg" crc="3804951338" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c19c76_e1ee443d4c5e4e3197a25eec7a0a97e5.png" crc="4192185426" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="е.jpg" crc="461073429" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="й.jpg" crc="122780240" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="к.jpg" crc="4245815130" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="___-_____-3.css" crc="166063134" ref="tablet>без-имени-3"/>
+      <file name="index.css" crc="4159080138" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4072386044" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3785688150" seo="true" mt="1510654068898" redirect="true"/>
+    <file name="без-имени-3.html" crc="210127266" seo="true" mt="1510653010237" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3876829708" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="335829729" ref="phone>index"/>
+      <file name="___-_____-3.css" crc="62426684" ref="phone>без-имени-3"/>
+    </folder>
+    <file name="index.html" crc="4247046447" seo="true" mt="1510659078183" redirect="true"/>
+    <file name="без-имени-3.html" crc="3995107575" seo="true" mt="1510653008669" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4276961872" seo="true" mt="1510653010280" redirect="true"/>
+  <file name="без-имени-3.html" crc="3901801240" seo="true" mt="1510653010281" redirect="true"/>
+</manifest>
